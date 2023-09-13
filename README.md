@@ -1,4 +1,4 @@
-Hi 👋 My name is Bahadir Tezer
+Hi 👋 My name is Bahadir
 ==============================
 
 Senior Front-end & BigCommerce Developer
