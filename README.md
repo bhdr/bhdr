@@ -1,7 +1,7 @@
 Hi 👋 My name is Bahadir
 ==============================
 
-Senior Front-end & BigCommerce Developer
+Senior Front-end & React / Next.js Developer
 
 * 🌍  I'm based in Izmir
 * 🖥️  See my portfolio at [bahadirtezer.com](http://bahadirtezer.com)
